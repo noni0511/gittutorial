@@ -1,6 +1,6 @@
 winners <- read.delim('clipboard')
 winners
-winners 2
+winners 2 3
 Romeo <- 18
 Juliet<-42
 Oscar <-44
